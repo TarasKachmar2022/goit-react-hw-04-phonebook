@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { nanoid } from 'nanoid';
-import { GlobalStyle } from '../GlobalStyle';
+import { GlobalStyle } from '../../styled/globalStyle';
 import { FindContactsByName } from './App.styled';
 import { Layout } from '../Layout/Layout';
 import ContactForm from '../ContactForm';
